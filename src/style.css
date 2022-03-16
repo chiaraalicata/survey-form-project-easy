@@ -154,3 +154,13 @@ form {
   border-radius: 2px;
   cursor: pointer;
 }
+#open-source {
+  text-decoration-line: none;
+}
+footer {
+  font-size: 12px;
+  font-family: monospace;
+  text-align: center;
+}
+a {
+  text-decoration-line: none;
